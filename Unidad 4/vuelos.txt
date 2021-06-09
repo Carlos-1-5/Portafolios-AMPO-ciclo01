@@ -1,0 +1,33 @@
+San Salvador,Miami
+Madrid,San Salvador
+San Salvador,Guatemala
+Miami,Paris
+Buenos Aires,Sao Paulo
+Paris,Hong Kong
+San Salvador,Bogota
+Bogota,Paris
+Miami,San Francisco
+Sao Paulo,Tocumen
+San Salvador,Madrid
+Sao Paulo,Tocumen
+Madrid,Guatemala
+Guatemala,San Salvador
+Cancun,San Salvador
+Eldorado,San Salvador
+San Salvador,Cancun
+Benito Juarez,San Salvador
+Atlanta,San Salvador
+Guatemala,Cancun
+Miami,San Salvador
+San Salvador,Atlanta
+Tocumen,San Salvador
+San Salvador,Tocumen
+Tocumen,Sao Paulo
+Sao Paulo,Buenos Aires
+San Francisco,Miami
+Milan,Madrid
+Madrid,Milan
+Bogota,Tocumen
+Madrid,Bogota
+Cancun,Tocumen
+Bogota,San Salvador
